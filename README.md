@@ -1,4 +1,4 @@
-## Hi there, I'm [Faith Atogun] 👋
+## Hi there, I'm Faith Atogun 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -17,21 +17,20 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy [singing, reading, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy singing, reading, teaching, mentoring others, etc. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://Faithful-data.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Building a sales forecasting model in Python.]  
-- **Project B:** [Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [Developing new Presentation on creatin a Data Analysis profile and portfolio website .]
+- **Project A:** Building a sales forecasting model in Python.
+- **Content Creation:** Developing new Presentation on creatin a Data Analysis profile and portfolio website.
 
 ## 🌱 Currently Learning 
 
 - Advance Automations.
-- Another skill, e.g., Cloud data warehousing with Google BigQuery.
+- Advance Python.
 
 ## 🛠️ Technical Skillset
 
@@ -54,8 +53,7 @@ When I'm not working with data, I enjoy [singing, reading, mentoring others, etc
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Experienced-96CEB4?style=flat" alt="KPI Development Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Experienced-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
