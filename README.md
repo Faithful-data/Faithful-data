@@ -25,7 +25,7 @@ When I'm not working with data, I enjoy singing, reading, teaching, mentoring ot
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** Building a sales forecasting model in Python.
-- **Content Creation:** Developing new Presentation on creatin a Data Analysis profile and portfolio website.
+- **Content Creation:** Developing a new Presentation on creating a Data Analysis profile and portfolio website.
 
 ## 🌱 Currently Learning 
 
